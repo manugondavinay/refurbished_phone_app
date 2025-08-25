@@ -1,0 +1,6 @@
+brand,model,storage,color,condition,base_price,stock,tags,discontinued
+Apple,iPhone 12,128GB,Black,Good,350,5,,0
+Samsung,Galaxy S21,256GB,Silver,New,420,2,featured,0
+Xiaomi,Redmi Note 10,64GB,Blue,Scrap,60,10,clearance,0
+OnePlus,8T,128GB,Green,Good,250,0,out_of_stock,0
+Nokia,3310,16MB,Gray,Usable,20,50,,1
